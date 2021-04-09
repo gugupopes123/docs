@@ -1,6 +1,6 @@
 ---
 title: Writing on GitHub
-redirect_from:
+redirect_from:gugupopes123
   - /categories/88/articles/
   - /articles/github-flavored-markdown/
   - /articles/writing-on-github/
